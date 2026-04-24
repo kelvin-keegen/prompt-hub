@@ -8,7 +8,6 @@ Then generate an AGENTS.md in the root of the repo.
 AGENTS.md exists so an AI agent can pick up any task in this codebase — cold,
 mid-session, or after a long gap — without needing to ask basic questions.
 It is machine-first but human-readable. Use real values from the project everywhere.
-Only write [TODO] when something is genuinely unknowable from the files alone.
 
 Cover the following, and only the following:
 
